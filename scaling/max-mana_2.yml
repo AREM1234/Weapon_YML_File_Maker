@@ -1,0 +1,99 @@
+#--------------------------Tier 1-------------------------
+Tier1_common:
+  STAT_BASE: '2'
+  STAT_MAX: '.5'
+  STAT_SPREAD: '.2'
+
+Tier1_uncommon:
+  STAT_BASE: '2.5'
+  STAT_MAX: '.6'
+  STAT_SPREAD: '.2'
+
+Tier1_rare:
+  STAT_BASE: '3'
+  STAT_MAX: '.67'
+  STAT_SPREAD: '.2'
+
+#--------------------------Tier 2-------------------------
+Tier2_common:
+  STAT_BASE: '4'
+  STAT_MAX: '.75'
+  STAT_SPREAD: '.3'
+
+Tier2_uncommon:
+  STAT_BASE: '5'
+  STAT_MAX: '.8'
+  STAT_SPREAD: '.3'
+
+Tier2_rare:
+  STAT_BASE: '7'
+  STAT_MAX: '.57'
+  STAT_SPREAD: '.3'
+
+#--------------------------Tier 3-------------------------
+Tier3_common:
+  STAT_BASE: '9'
+  STAT_MAX: '.44'
+  STAT_SPREAD: '.3'
+
+Tier3_uncommon:
+  STAT_BASE: '11'
+  STAT_MAX: '.36'
+  STAT_SPREAD: '.3'
+
+Tier3_rare:
+  STAT_BASE: '12'
+  STAT_MAX: '.25'
+  STAT_SPREAD: '.2'
+
+Tier3_epic:
+  STAT_BASE: '13'
+  STAT_MAX: '.15'
+  STAT_SPREAD: '.2'
+
+#--------------------------Tier 4-------------------------
+Tier4_uncommon:
+  STAT_BASE: '15'
+  STAT_MAX: '.13'
+  STAT_SPREAD: '.2'
+
+Tier4_rare:
+  STAT_BASE: '17'
+  STAT_MAX: '.12'
+  STAT_SPREAD: '.2'
+
+Tier4_epic:
+  STAT_BASE: '19'
+  STAT_MAX: '.12'
+  STAT_SPREAD: '.2'
+
+Tier4_legendary:
+  STAT_BASE: '21'
+  STAT_MAX: '.1'
+  STAT_SPREAD: '.2'
+
+#--------------------------Tier 5-------------------------
+Tier5_uncommon:
+  STAT_BASE: '22'
+  STAT_MAX: '.09'
+  STAT_SPREAD: '.2'
+
+Tier5_rare:
+  STAT_BASE: '24'
+  STAT_MAX: '.08'
+  STAT_SPREAD: '.2'
+
+Tier5_epic:
+  STAT_BASE: '26'
+  STAT_MAX: '.08'
+  STAT_SPREAD: '.2'
+
+Tier5_legendary:
+  STAT_BASE: '27'
+  STAT_MAX: '.11'
+  STAT_SPREAD: '.3'
+
+Tier5_mythic:
+  STAT_BASE: '27.5'
+  STAT_MAX: '.09'
+  STAT_SPREAD: '.3'
