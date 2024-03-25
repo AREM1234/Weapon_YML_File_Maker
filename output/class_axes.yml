@@ -1,0 +1,1958 @@
+TIER1_COMMON_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&7Placeholder'
+    required-level: 1
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: COMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 3
+      success: 100.0
+      destroy: false
+      reference: common_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 2
+      spread: .1
+      max-spread: .5
+    physical-damage:
+      base: 2
+      spread: .1
+      max-spread: .5
+    attack-damage:
+      base: 10.5
+      spread: .2
+      max-spread: .14
+    defense:
+      base: .5
+      spread: .2
+      max-spread: 1
+
+
+TIER1_UNCOMMON_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&2Placeholder'
+    required-level: 3
+    required_strength: 1
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: UNCOMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: uncommon_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 3.5
+      spread: .2
+      max-spread: .42
+    physical-damage:
+      base: 3.5
+      spread: .2
+      max-spread: .42
+    attack-damage:
+      base: 10.5
+      spread: .2
+      max-spread: .14
+    defense:
+      base: .5
+      spread: .2
+      max-spread: 1
+
+
+TIER1_RARE_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&9Placeholder'
+    required-level: 6
+    required_strength: 3
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: RARE
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: rare_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 5.5
+      spread: .2
+      max-spread: .27
+    physical-damage:
+      base: 5.5
+      spread: .2
+      max-spread: .27
+    attack-damage:
+      base: 10.5
+      spread: .2
+      max-spread: .14
+    defense:
+      base: 1.5
+      spread: .2
+      max-spread: .33
+
+
+TIER2_COMMON_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&7Placeholder'
+    required-level: 7
+    required_strength: 4
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: COMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 3
+      success: 100.0
+      destroy: false
+      reference: common_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 6
+      spread: .2
+      max-spread: .33
+    physical-damage:
+      base: 6
+      spread: .2
+      max-spread: .33
+    attack-damage:
+      base: 11.5
+      spread: .2
+      max-spread: .13
+    defense:
+      base: 2
+      spread: .2
+      max-spread: .5
+
+
+TIER2_UNCOMMON_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&2Placeholder'
+    required-level: 11
+    required_strength: 6
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: UNCOMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: uncommon_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 8
+      spread: .2
+      max-spread: .25
+    physical-damage:
+      base: 8
+      spread: .2
+      max-spread: .25
+    attack-damage:
+      base: 12
+      spread: .2
+      max-spread: .17
+    defense:
+      base: 2.5
+      spread: .2
+      max-spread: 6
+
+
+TIER2_RARE_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&9Placeholder'
+    required-level: 14
+    required_strength: 7
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: RARE
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: rare_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 10
+      spread: .2
+      max-spread: .2
+    physical-damage:
+      base: 10
+      spread: .2
+      max-spread: .2
+    attack-damage:
+      base: 12.5
+      spread: .2
+      max-spread: .12
+    defense:
+      base: 3
+      spread: .2
+      max-spread: .66
+
+
+TIER3_COMMON_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&7Placeholder'
+    required-level: 15
+    required_strength: 11
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: COMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 3
+      success: 100.0
+      destroy: false
+      reference: common_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 12
+      spread: .2
+      max-spread: .08
+    physical-damage:
+      base: 12
+      spread: .2
+      max-spread: .08
+    attack-damage:
+      base: 15
+      spread: .2
+      max-spread: .07
+    defense:
+      base: 5.5
+      spread: .2
+      max-spread: .45
+
+
+TIER3_UNCOMMON_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&2Placeholder'
+    required-level: 20
+    required_strength: 16
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: UNCOMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: uncommon_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 13
+      spread: .2
+      max-spread: .15
+    physical-damage:
+      base: 13
+      spread: .2
+      max-spread: .15
+    attack-damage:
+      base: 15.5
+      spread: .2
+      max-spread: .1
+    defense:
+      base: 7.5
+      spread: .2
+      max-spread: .33
+
+
+TIER3_RARE_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&9Placeholder'
+    required-level: 25
+    required_strength: 21
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: RARE
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: rare_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 14
+      spread: .2
+      max-spread: .21
+    physical-damage:
+      base: 14
+      spread: .2
+      max-spread: .21
+    attack-damage:
+      base: 16
+      spread: .2
+      max-spread: .13
+    defense:
+      base: 9.5
+      spread: .2
+      max-spread: .26
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER3_EPIC_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&5Placeholder'
+    required-level: 29
+    required_strength: 25
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: EPIC
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 7
+      success: 100.0
+      destroy: false
+      reference: epic_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 15
+      spread: .2
+      max-spread: .13
+    physical-damage:
+      base: 15
+      spread: .2
+      max-spread: .13
+    attack-damage:
+      base: 16.5
+      spread: .2
+      max-spread: .15
+    defense:
+      base: 12.5
+      spread: .2
+      max-spread: .2
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER4_UNCOMMON_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&2Placeholder'
+    required-level: 30
+    required_strength: 26
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: UNCOMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: uncommon_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    skill-damage:
+      base: 17
+      spread: .2
+      max-spread: .12
+    physical-damage:
+      base: 17
+      spread: .2
+      max-spread: .12
+    attack-damage:
+      base: 21
+      spread: .2
+      max-spread: .14
+    defense:
+      base: 12.5
+      spread: .2
+      max-spread: .2
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER4_RARE_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&9Placeholder'
+    required-level: 33
+    required_strength: 29
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: RARE
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: rare_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    skill-damage:
+      base: 18
+      spread: .2
+      max-spread: .17
+    physical-damage:
+      base: 18
+      spread: .2
+      max-spread: .17
+    attack-damage:
+      base: 21.5
+      spread: .2
+      max-spread: .12
+    defense:
+      base: 15.5
+      spread: .2
+      max-spread: .1
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER4_EPIC_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&5Placeholder'
+    required-level: 36
+    required_strength: 32
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: EPIC
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 7
+      success: 100.0
+      destroy: false
+      reference: epic_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    skill-damage:
+      base: 19
+      spread: .3
+      max-spread: .21
+    physical-damage:
+      base: 19
+      spread: .3
+      max-spread: .21
+    attack-damage:
+      base: 22
+      spread: .3
+      max-spread: .09
+    defense:
+      base: 16.5
+      spread: .3
+      max-spread: .15
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER4_LEGENDARY_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&6Placeholder'
+    required-level: 40
+    required_strength: 36
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: LEGENDARY
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 7
+      success: 100.0
+      destroy: false
+      reference: legendary_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    - Blue
+    skill-damage:
+      base: 21
+      spread: .3
+      max-spread: .19
+    physical-damage:
+      base: 21
+      spread: .3
+      max-spread: .19
+    attack-damage:
+      base: 23
+      spread: .3
+      max-spread: .13
+    defense:
+      base: 18.5
+      spread: .3
+      max-spread: .14
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+    basic_damage_group:
+        min: 0
+        max: 1
+
+TIER5_UNCOMMON_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&2Placeholder'
+    required-level: 41
+    required_strength: 40
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: UNCOMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: uncommon_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    skill-damage:
+      base: 22
+      spread: .2
+      max-spread: .14
+    physical-damage:
+      base: 22
+      spread: .2
+      max-spread: .14
+    attack-damage:
+      base: 24
+      spread: .2
+      max-spread: .08
+    defense:
+      base: 19.5
+      spread: .2
+      max-spread: .08
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER5_RARE_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&9Placeholder'
+    required-level: 43
+    required_strength: 40
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: RARE
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: rare_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    skill-damage:
+      base: 23
+      spread: .3
+      max-spread: .17
+    physical-damage:
+      base: 23
+      spread: .3
+      max-spread: .17
+    attack-damage:
+      base: 26
+      spread: .3
+      max-spread: .08
+    defense:
+      base: 20.5
+      spread: .3
+      max-spread: .12
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER5_EPIC_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&5Placeholder'
+    required-level: 46
+    required_strength: 40
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: EPIC
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 7
+      success: 100.0
+      destroy: false
+      reference: epic_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    skill-damage:
+      base: 25
+      spread: .3
+      max-spread: .16
+    physical-damage:
+      base: 25
+      spread: .3
+      max-spread: .16
+    attack-damage:
+      base: 27
+      spread: .3
+      max-spread: .11
+    defense:
+      base: 20.5
+      spread: .3
+      max-spread: .12
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER5_LEGENDARY_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&6Placeholder'
+    required-level: 48
+    required_strength: 40
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: LEGENDARY
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 7
+      success: 100.0
+      destroy: false
+      reference: legendary_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    - Blue
+    skill-damage:
+      base: 27
+      spread: .3
+      max-spread: .15
+    physical-damage:
+      base: 27
+      spread: .3
+      max-spread: .15
+    attack-damage:
+      base: 28
+      spread: .3
+      max-spread: .14
+    defense:
+      base: 21.5
+      spread: .4
+      max-spread: .16
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+    basic_damage_group:
+        min: 0
+        max: 1
+
+TIER5_MYTHIC_AXE_PHYSICAL:
+  base:
+    material: DIAMOND_AXE
+    name: '&dPlaceholder'
+    required-level: 50
+    required_strength: 40
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: MYTHIC
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_physical_generic
+      max: 10
+      success: 100.0
+      destroy: false
+      reference: mythic_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    - Blue
+    - Gold
+    skill-damage:
+      base: 30
+      spread: .3
+      max-spread: .17
+    physical-damage:
+      base: 30
+      spread: .3
+      max-spread: .17
+    attack-damage:
+      base: 29
+      spread: .3
+      max-spread: .17
+    defense:
+      base: 22.5
+      spread: .4
+      max-spread: .11
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+    basic_damage_group:
+        min: 0
+        max: 1
+    axe_auxilery_damage_group:
+        min: 0
+        max: 1
+
+
+#----------------------Magic--------------------------
+
+TIER1_COMMON_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&7Placeholder'
+    required-level: 1
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: COMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 3
+      success: 100.0
+      destroy: false
+      reference: common_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 2
+      spread: .1
+      max-spread: .5
+    magic-damage:
+      base: 2
+      spread: .1
+      max-spread: .5
+    attack-damage:
+      base: 10.5
+      spread: .2
+      max-spread: .14
+    defense:
+      base: .5
+      spread: .2
+      max-spread: 1
+
+
+TIER1_UNCOMMON_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&2Placeholder'
+    required-level: 3
+    required_intelligence: 1
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: UNCOMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: uncommon_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 3.5
+      spread: .2
+      max-spread: .42
+    magic-damage:
+      base: 3.5
+      spread: .2
+      max-spread: .42
+    attack-damage:
+      base: 10.5
+      spread: .2
+      max-spread: .14
+    defense:
+      base: .5
+      spread: .2
+      max-spread: 1
+
+
+TIER1_RARE_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&9Placeholder'
+    required-level: 6
+    required_intelligence: 3
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: RARE
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: rare_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 5.5
+      spread: .2
+      max-spread: .27
+    magic-damage:
+      base: 5.5
+      spread: .2
+      max-spread: .27
+    attack-damage:
+      base: 10.5
+      spread: .2
+      max-spread: .14
+    defense:
+      base: 1.5
+      spread: .2
+      max-spread: .33
+
+
+TIER2_COMMON_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&7Placeholder'
+    required-level: 7
+    required_intelligence: 4
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: COMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 3
+      success: 100.0
+      destroy: false
+      reference: common_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 6
+      spread: .2
+      max-spread: .33
+    magic-damage:
+      base: 6
+      spread: .2
+      max-spread: .33
+    attack-damage:
+      base: 11.5
+      spread: .2
+      max-spread: .13
+    defense:
+      base: 2
+      spread: .2
+      max-spread: .5
+
+
+TIER2_UNCOMMON_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&2Placeholder'
+    required-level: 11
+    required_intelligence: 6
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: UNCOMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: uncommon_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 8
+      spread: .2
+      max-spread: .25
+    magic-damage:
+      base: 8
+      spread: .2
+      max-spread: .25
+    attack-damage:
+      base: 12
+      spread: .2
+      max-spread: .17
+    defense:
+      base: 2.5
+      spread: .2
+      max-spread: 6
+
+
+TIER2_RARE_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&9Placeholder'
+    required-level: 14
+    required_intelligence: 7
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: RARE
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: rare_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 10
+      spread: .2
+      max-spread: .2
+    magic-damage:
+      base: 10
+      spread: .2
+      max-spread: .2
+    attack-damage:
+      base: 12.5
+      spread: .2
+      max-spread: .12
+    defense:
+      base: 3
+      spread: .2
+      max-spread: .66
+
+
+TIER3_COMMON_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&7Placeholder'
+    required-level: 15
+    required_intelligence: 11
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: COMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 3
+      success: 100.0
+      destroy: false
+      reference: common_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 12
+      spread: .2
+      max-spread: .08
+    magic-damage:
+      base: 12
+      spread: .2
+      max-spread: .08
+    attack-damage:
+      base: 15
+      spread: .2
+      max-spread: .07
+    defense:
+      base: 5.5
+      spread: .2
+      max-spread: .45
+
+
+TIER3_UNCOMMON_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&2Placeholder'
+    required-level: 20
+    required_intelligence: 16
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: UNCOMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: uncommon_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 13
+      spread: .2
+      max-spread: .15
+    magic-damage:
+      base: 13
+      spread: .2
+      max-spread: .15
+    attack-damage:
+      base: 15.5
+      spread: .2
+      max-spread: .1
+    defense:
+      base: 7.5
+      spread: .2
+      max-spread: .33
+
+
+TIER3_RARE_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&9Placeholder'
+    required-level: 25
+    required_intelligence: 21
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: RARE
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: rare_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 14
+      spread: .2
+      max-spread: .21
+    magic-damage:
+      base: 14
+      spread: .2
+      max-spread: .21
+    attack-damage:
+      base: 16
+      spread: .2
+      max-spread: .13
+    defense:
+      base: 9.5
+      spread: .2
+      max-spread: .26
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER3_EPIC_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&5Placeholder'
+    required-level: 29
+    required_intelligence: 25
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: EPIC
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 7
+      success: 100.0
+      destroy: false
+      reference: epic_upgrade
+    revision-id: 1
+    attack-speed: 1
+    skill-damage:
+      base: 15
+      spread: .2
+      max-spread: .13
+    magic-damage:
+      base: 15
+      spread: .2
+      max-spread: .13
+    attack-damage:
+      base: 16.5
+      spread: .2
+      max-spread: .15
+    defense:
+      base: 12.5
+      spread: .2
+      max-spread: .2
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER4_UNCOMMON_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&2Placeholder'
+    required-level: 30
+    required_intelligence: 26
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: UNCOMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: uncommon_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    skill-damage:
+      base: 17
+      spread: .2
+      max-spread: .12
+    magic-damage:
+      base: 17
+      spread: .2
+      max-spread: .12
+    attack-damage:
+      base: 21
+      spread: .2
+      max-spread: .14
+    defense:
+      base: 12.5
+      spread: .2
+      max-spread: .2
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER4_RARE_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&9Placeholder'
+    required-level: 33
+    required_intelligence: 29
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: RARE
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: rare_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    skill-damage:
+      base: 18
+      spread: .2
+      max-spread: .17
+    magic-damage:
+      base: 18
+      spread: .2
+      max-spread: .17
+    attack-damage:
+      base: 21.5
+      spread: .2
+      max-spread: .12
+    defense:
+      base: 15.5
+      spread: .2
+      max-spread: .1
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER4_EPIC_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&5Placeholder'
+    required-level: 36
+    required_intelligence: 32
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: EPIC
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 7
+      success: 100.0
+      destroy: false
+      reference: epic_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    skill-damage:
+      base: 19
+      spread: .3
+      max-spread: .21
+    magic-damage:
+      base: 19
+      spread: .3
+      max-spread: .21
+    attack-damage:
+      base: 22
+      spread: .3
+      max-spread: .09
+    defense:
+      base: 16.5
+      spread: .3
+      max-spread: .15
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER4_LEGENDARY_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&6Placeholder'
+    required-level: 40
+    required_intelligence: 36
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: LEGENDARY
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 7
+      success: 100.0
+      destroy: false
+      reference: legendary_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    - Blue
+    skill-damage:
+      base: 21
+      spread: .3
+      max-spread: .19
+    magic-damage:
+      base: 21
+      spread: .3
+      max-spread: .19
+    attack-damage:
+      base: 23
+      spread: .3
+      max-spread: .13
+    defense:
+      base: 18.5
+      spread: .3
+      max-spread: .14
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+    basic_damage_group:
+        min: 0
+        max: 1
+
+TIER5_UNCOMMON_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&2Placeholder'
+    required-level: 41
+    required_intelligence: 40
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: UNCOMMON
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: uncommon_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    skill-damage:
+      base: 22
+      spread: .2
+      max-spread: .14
+    magic-damage:
+      base: 22
+      spread: .2
+      max-spread: .14
+    attack-damage:
+      base: 24
+      spread: .2
+      max-spread: .08
+    defense:
+      base: 19.5
+      spread: .2
+      max-spread: .08
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER5_RARE_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&9Placeholder'
+    required-level: 43
+    required_intelligence: 40
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: RARE
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 5
+      success: 100.0
+      destroy: false
+      reference: rare_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    skill-damage:
+      base: 23
+      spread: .3
+      max-spread: .17
+    magic-damage:
+      base: 23
+      spread: .3
+      max-spread: .17
+    attack-damage:
+      base: 26
+      spread: .3
+      max-spread: .08
+    defense:
+      base: 20.5
+      spread: .3
+      max-spread: .12
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER5_EPIC_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&5Placeholder'
+    required-level: 46
+    required_intelligence: 40
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: EPIC
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 7
+      success: 100.0
+      destroy: false
+      reference: epic_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    skill-damage:
+      base: 25
+      spread: .3
+      max-spread: .16
+    magic-damage:
+      base: 25
+      spread: .3
+      max-spread: .16
+    attack-damage:
+      base: 27
+      spread: .3
+      max-spread: .11
+    defense:
+      base: 20.5
+      spread: .3
+      max-spread: .12
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+
+TIER5_LEGENDARY_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&6Placeholder'
+    required-level: 48
+    required_intelligence: 40
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: LEGENDARY
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 7
+      success: 100.0
+      destroy: false
+      reference: legendary_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    - Blue
+    skill-damage:
+      base: 27
+      spread: .3
+      max-spread: .15
+    magic-damage:
+      base: 27
+      spread: .3
+      max-spread: .15
+    attack-damage:
+      base: 28
+      spread: .3
+      max-spread: .14
+    defense:
+      base: 21.5
+      spread: .4
+      max-spread: .16
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+    basic_damage_group:
+        min: 0
+        max: 1
+
+TIER5_MYTHIC_AXE_MAGIC:
+  base:
+    material: DIAMOND_AXE
+    name: '&dPlaceholder'
+    required-level: 50
+    required_intelligence: 40
+    required-class: 
+    - Warrior
+    - "Dragon Warrior"
+    - Paladin
+    - "Dark Knight"
+    - Necromancer
+    - Withermancer
+    - "Dread Knight"
+    - "Grave Warden"
+    lore-format: class_weapons
+    displayed-type: 'Axe'
+    tier: MYTHIC
+    max-durability: 1600
+    lore:
+      - '&6Usable by Warriors and Necromancers'
+    upgrade:
+      workbench: false
+      template: class_magic_generic
+      max: 10
+      success: 100.0
+      destroy: false
+      reference: mythic_upgrade
+    revision-id: 1
+    attack-speed: 1
+    gem-sockets:
+    - Red
+    - Blue
+    - Gold
+    skill-damage:
+      base: 30
+      spread: .3
+      max-spread: .17
+    magic-damage:
+      base: 30
+      spread: .3
+      max-spread: .17
+    attack-damage:
+      base: 29
+      spread: .3
+      max-spread: .17
+    defense:
+      base: 22.5
+      spread: .4
+      max-spread: .11
+  modifiers:
+    elemental_damage_group:
+        min: 0
+        max: 1
+    basic_damage_group:
+        min: 0
+        max: 1
+    axe_auxilery_damage_group:
+        min: 0
+        max: 1
