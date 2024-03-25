@@ -1,0 +1,16 @@
+TYPE: Bow
+MATERIAL: BOW
+TEMPLATE: class_projectile_generic
+REQUIRED_STAT: dexterity
+REQUIRED_CLASS:
+- Hunter
+- Sharpshooter
+- \"Beast Master\"
+- HUNT_3
+REQUIRED_CLASS_LORE: '&6Usable by Hunters'
+SPEED: '1.6'
+STATS:
+  skill-damage: '1'
+  projectile-damage: '2'
+  attack-damage: '1'
+  skill-critical-strike-chance: '1'

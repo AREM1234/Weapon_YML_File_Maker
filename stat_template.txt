@@ -1,0 +1,4 @@
+    STAT_NAME:
+      base: STAT_BASE
+      spread: STAT_SPREAD
+      max-spread: STAT_MAX

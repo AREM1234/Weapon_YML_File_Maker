@@ -1,0 +1,22 @@
+TIER_RARITY_TYPEU:
+  base:
+    material: MATERIAL
+    name: 'NAME_COLORPlaceholder'
+    required-level: LEVEL|REQUIRED_STAT
+    required-class: REQUIRED_CLASSES
+    lore-format: class_weapons
+    displayed-type: 'TYPE'
+    tier: RARITY
+    max-durability: 1600
+    lore:
+      - 'LORE_PLACEHOLDER'
+    upgrade:
+      workbench: false
+      template: TEMPLATE
+      max: UPGRADES
+      success: 100.0
+      destroy: false
+      reference: RARITYL_upgrade
+    revision-id: 1
+    attack-speed: SPEED_STAT|GEM
+STATS|MODIFIER
